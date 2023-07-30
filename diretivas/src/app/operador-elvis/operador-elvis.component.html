@@ -1,0 +1,5 @@
+<p>Descrição: {{ tarefa.desc }}</p>
+<!--<p>Responsável: {{ tarefa.responsavel.nome }}</p>-->
+<!--<p>Responsável: {{ tarefa.responsavel != null ? tarefa.responsavel.nome : '' }}</p> Esse seria o tratamento comum-->
+<p>Responsável: {{ tarefa.responsavel?.usuario?.nome }}</p>
+<!--// Essa é a utilização do operador elvis que após cada atributo possivelmente nulo coloca-se o ? não importa o grau de aninhamento -->
