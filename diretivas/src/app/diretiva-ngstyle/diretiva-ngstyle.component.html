@@ -12,12 +12,12 @@
 
 <h5>Styles com diretiva ngStyle</h5>
 <button
-  [ngStyle] ="{
+  (click)="mudarAtivo()"
+  [ngStyle]="{
   'background-color': ativo ? 'blue' : 'gray',
   'color': ativo ? 'white' : 'black',
   'font-weight': ativo ? 'bold' : 'normal',
   'font-size' : tamanhoFonte + 'px'
-  }"
-   (click)="mudarAtivo()">
+  }">
   Mudar atributo 'ativo'
 </button>
