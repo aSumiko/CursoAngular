@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61722d43-303b-4804-afeb-ae19f56a8083" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EditorConfigPreviewManager">
+    <editorConfig file="$PROJECT_DIR$/.editorconfig" previewFile="$PROJECT_DIR$/src/app/cursos/cursos-lista/cursos-lista.component.html" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="11" />
+      <option value="12" />
+      <option value="13" />
+      <option value="14" />
+      <option value="15" />
+      <option value="16" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="2XADdBe3MwyN8VCL6QEQOh5c3Mu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AnaPaula/Documents/workspace/projetos/CursoAngular/requests-http&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AnaPaula\Documents\workspace\projetos\CursoAngular\requests-http\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="exemplo | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/exemplo.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="exemplo | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/exemplo.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="exemplo | #3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/exemplo.http" index="3" requestIdentifier="#3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="exemplo | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/exemplo.http" index="4" requestIdentifier="#4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.exemplo | #2" />
+        <item itemvalue="HTTP Request.exemplo | #1" />
+        <item itemvalue="HTTP Request.exemplo | #3" />
+        <item itemvalue="HTTP Request.exemplo | #4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61722d43-303b-4804-afeb-ae19f56a8083" name="Changes" comment="" />
+      <created>1698063075448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698063075448</updated>
+      <workItem from="1698063077440" duration="3949000" />
+      <workItem from="1698152111157" duration="10016000" />
+      <workItem from="1698238975525" duration="2406000" />
+      <workItem from="1698259193732" duration="3668000" />
+      <workItem from="1698326844491" duration="9521000" />
+      <workItem from="1698399064497" duration="7310000" />
+      <workItem from="1698483917300" duration="3392000" />
+      <workItem from="1698529223890" duration="1258000" />
+      <workItem from="1698600402456" duration="21070000" />
+      <workItem from="1698774656695" duration="4901000" />
+      <workItem from="1698779997536" duration="4653000" />
+      <workItem from="1698832722312" duration="3083000" />
+      <workItem from="1698835877352" duration="13230000" />
+      <workItem from="1698888539884" duration="223000" />
+      <workItem from="1698889360528" duration="163000" />
+      <workItem from="1698889540751" duration="578000" />
+      <workItem from="1698890145481" duration="111000" />
+      <workItem from="1698890272877" duration="70000" />
+      <workItem from="1698890359314" duration="3038000" />
+      <workItem from="1699065027199" duration="7000" />
+      <workItem from="1699286645949" duration="3505000" />
+      <workItem from="1699374740740" duration="6706000" />
+      <workItem from="1699567407951" duration="1514000" />
+      <workItem from="1699611950814" duration="4614000" />
+      <workItem from="1700822141789" duration="6932000" />
+      <workItem from="1701257562922" duration="752000" />
+      <workItem from="1701422228970" duration="1226000" />
+      <workItem from="1701954087361" duration="1357000" />
+      <workItem from="1702344611019" duration="5016000" />
+      <workItem from="1702375928737" duration="685000" />
+      <workItem from="1702376638235" duration="12891000" />
+      <workItem from="1702464393220" duration="2496000" />
+      <workItem from="1702816559633" duration="621000" />
+      <workItem from="1703666701714" duration="7988000" />
+      <workItem from="1703762457774" duration="4709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
